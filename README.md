@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
+I initially built this app following this [Angular Tutorial](https://www.youtube.com/watch?v=WHv1YQUg6ow) from [Laith Academy](https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA).
+
+My first build can be found [here](https://github.com/tougerthao/team-gen-app).
+
+I rebuilt the same app without following the tutorial and added the following:
+
+- delete button next to the names in the list
+- delete button to remove generated teams
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
